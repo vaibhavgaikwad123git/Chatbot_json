@@ -1,0 +1,13 @@
+pandas
+streamlit
+GPT4all
+chromadb
+langchain
+langchainhub
+pymupdf
+openai
+tiktoken
+typing
+pydantic
+sagemaker
+faiss-cpu
